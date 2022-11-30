@@ -1,5 +1,5 @@
 # Auto-Approve-Bot
-👾 Hey I'll Accept telegram join requests. Easy to use and simple. 
+👾 Hey I'll Accept telegram join requests. Easy to use and simple.
 
 ## 🚀 Demo Bot
 - [@SDAutoApproveBot](https://t.me/SDAutoApproveBot)
